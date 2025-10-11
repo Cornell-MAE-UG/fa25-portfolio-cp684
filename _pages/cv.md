@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/actuator.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [cp684cornell.edu](mailto:cp684@cornell.edu) | | | **Phone:** +949 838 5459
@@ -20,11 +20,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 2.83/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Arnold O. Beckman High**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2024]
 
 ---
 
