@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Actuator
-description: Class project with Graphs
-technologies: [MATLAB, python]
+description: Engineering Problem Design
+technologies: 
 image: /assets/actuator.pdf
 ---
 

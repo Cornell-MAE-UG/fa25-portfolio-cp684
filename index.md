@@ -1,5 +1,5 @@
 ---
-layout: renva
+layout: default
 title: Calvin Pang
 ---
 
