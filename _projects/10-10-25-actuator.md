@@ -2,24 +2,15 @@
 layout: project
 title: Actuator
 description: Engineering Problem Design
-technologies: 
+
 image: /assets/actuator.pdf
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+As part of a class project, we were tasked with designing an apparatus that utilized an actuator and a beam to move a mass. The objective was to optimize the weight of the mass as well as the height that the mass is elevated to. We were given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length of our choice, 3 pin supports of which two need to be mounted on the ground and a linear actuator.
 
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+I decided to use the RSX actuator because it was capable of producing the greatest amount of force of 294 kN, as well as having the largest stroke legnth of 1.5 meters.
 
 
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
+Knowing how the sum of moments about a point is 0 in static equilibrium, by placing the actuator at a far distance from the pivot point, I can significantly increase the moment production by placing the mass at a closer distance from the pivot point. I know this because force (mass) = force (actuator) * distance (actuator) / distance (mass).
