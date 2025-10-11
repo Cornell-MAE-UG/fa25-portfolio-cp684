@@ -6,7 +6,7 @@ title: Calvin Pang
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "/assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Calvin Pang, and I am an undergraduate student at Cornell University studying mechanical engineering.
