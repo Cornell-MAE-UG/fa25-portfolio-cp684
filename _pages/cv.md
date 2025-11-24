@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanics. Passionate about performance optimization and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 2.83/4.0 | Graduation: May, 2028
+  GPA: 3.2/4.0 | Graduation: May, 2028
 
 - **Arnold O. Beckman High**  
   *High School Diploma*  
@@ -29,42 +29,22 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** SolidWorks
+- **Programming:** Python, MATLAB 
+- **Tools:** Soldering 
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **1/10 RC Car**:  
+  *Optimized a 1/10-scale crawler RC car for high-speed on-road performance by conducting a full trade study of drivetrain, motor, ESC, power system, and suspension options. Overcame complex part-integration challenges, strengthening creative problem-solving and technical skills.*
+  - Implemented a high-KV brushless motor with a 3S LiPo setup, adjusted gearing, and reduced weight by 15% using carbon fiber components, resulting in a 150% increase in top speed (8→20 mph). 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Men's Club Volleyball
+- Volunteer for Emmaus Road Ministry 
 
 ---
 
