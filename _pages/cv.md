@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/actuator.pdf" | relative_url }}) in PDF format.
+[Download my resume]({{ "/assets/cp684_Resume.pdf" | https://drive.google.com/file/d/1PWj7ld2QIZzHOd6oBsKefkLfHYPm4dwT/view?usp=sharing }}) in PDF format.
 
 
 **Email:** [cp684cornell.edu](mailto:cp684@cornell.edu) | | | **Phone:** +949 838 5459
