@@ -8,7 +8,7 @@ image: /assets/rc-car.pdf
 
 
 #### Introduction:
-I was inspired to design and build a 1/10 RC crawler without prior knowledge not only for the experience gained from working on a four-wheel vehicle, but also to challenge myself to learn something completely new, problem-solve, and adapt to unforeseen circumstances. My overall objective was to build a crawler that maximizes speed without sacrificing durability or performance. Another goal was to not exceed a budget of $200, so thorough research and trade studies were conducted.                                                                  
+I was inspired to design and build a 1/10 RC crawler without prior knowledge not only for the experience gained from working on a four-wheel vehicle, but also to challenge myself to learn something completely new, problem-solve, and adapt to unforeseen circumstances. My overall objective was to build a crawler that maximizes speed without sacrificing durability or performance. Another goal was to not exceed a budget of $200, so thorough research and trade studies were conducted.                                                                                                             
 
 #### Research:
 Lithium polymer batteries are better than other types because it is rechargable. A 3S battery is more efficient than a battery with cells in parallel because of the higher voltage it produces necessary for speed.
