@@ -12,7 +12,7 @@ I was inspired to design and build a 1/10 RC crawler without prior knowledge not
 
 #### Research:
 The electric components follow a system going from the battery to the ESC, which then distributes power to two parts: the receiver and the motor. The receiver is what allows the user to send signals to communicate with the crawler and control it. Connected to the receiver is the servo which serves as the main mechanism to control steering. Lithium polymer batteries are better than other types because it is rechargable. A 3S battery is more efficient than a battery with cells in parallel because of the higher voltage it produces necessary for speed. 5200 mAh means that the battery has the capacity to provide a constant 5.2 amperes for 1 hour. 50C represents the battery's ability to safely discharge 50 times the battery's capacity. The ESC has 60A meaning that it can safely deliver up to 60 amperes to other components. The servo has the strength to produce 35 kg or 350 N of force.                    
-
+The mechanical components support a front-wheel drive chassis, connecting the motor to a transmission and drive train, then axle and tires. I decided to use a brushless motor because of the higher efficiency. 3650 represents the dimensions of the motor, meaning that the diamter is 36 mm and the length is 50 mm. 3900 KV means that for every 1 volt put into the motor, it will rotate at 3900 rpm.
 
 #### Build:
 Carbon fiber frame                                                              
