@@ -24,7 +24,7 @@ Aspiring engineering student with a strong foundation in mechanics. Passionate a
 
 - **Arnold O. Beckman High**  
   *High School Diploma*  
-  Graduation: [May, 2024]
+  Graduation: May, 2024
 
 ---
 
